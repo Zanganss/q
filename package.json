@@ -16,7 +16,7 @@
     "termux-whatsapp-bot",
     "whatsapp-bot"
   ],
-  "author": "Nurutomo",
+  "author": "Zan",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
