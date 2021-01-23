@@ -1,6 +1,6 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • Telkomsel: [0813-5730-2007]
+│ • Telkomsel: [0853-4082-7717]
 │ 「 Chat OWNER 」
 │ > Ingin donasi? Wa.me/6282291992581
 ╰────
